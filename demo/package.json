@@ -1,0 +1,25 @@
+{
+  "name": "pcdemo",
+  "version": "1.0.0",
+  "description": "this is Reptile demo",
+  "main": "https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dyj",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhu-zhu/nodepc.git"
+  },
+  "dependencies": {
+        "request": "latest",
+        "request-progress":"latest"
+  },
+  "bugs": {
+    "url": "https://github.com/zhu-zhu/nodepc/issues"
+  },
+  "homepage": "https://github.com/zhu-zhu/nodepc#readme"
+}
