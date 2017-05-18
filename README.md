@@ -1,5 +1,7 @@
-# alphacoders-reptile  
-# 要求  
+# alphacoders-reptile  
+使用语言node.js es6  
+异步下载所有的图片
+# 要求  
 node.js >= 7.9.0 当前文件下创建download文件夹（必须）  
 # 示例  
 在开始函数中输入你想要的壁纸的名字start(); 
