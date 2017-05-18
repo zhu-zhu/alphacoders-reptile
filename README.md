@@ -1,5 +1,5 @@
 # alphacoders-reptile  
-使用语言node.js es6  
+使用语言node.js es6  
 异步下载所有的图片
 # 要求  
 node.js >= 7.9.0 当前文件下创建download文件夹（必须）  
