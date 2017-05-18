@@ -2,7 +2,9 @@
 # 要求  
 node.js >= 7.9.0 当前文件下创建download文件夹（必须）  
 # 示例  
-在开始函数中输入你想要的壁纸的名字  
+在开始函数中输入你想要的壁纸的名字start(); 
+
+例子:
 ````javascript
 start('Eromanga-sensei')
 ````
